@@ -11,7 +11,7 @@ $ cd ${launcherdir}/srcRuntime
 $ mv runtime runtime_old
 $ git clone https://github.com/RangeMC/runtime
 ```
-:information_source: Плейсхолдер `${username}` нужно заменить на путь к лаунчеру.
+:information_source: Плейсхолдер `${launcherdir}` нужно заменить на путь к лаунчеру.
 
 Собираем лаунчер с новым рантаймом
 
