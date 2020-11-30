@@ -1,0 +1,47 @@
+/*-- DrLeonardo Design for GravitLauncher --*/
+
+#optionsBackground {
+    -fx-background-color: transparent;
+    -fx-background-size: cover;
+    -fx-background-image: url('../../images/servermenu.png');
+}
+
+#icons {
+	-fx-fill: #fff;
+}
+
+#optionsPane {
+    -fx-background-color: transparent;
+}
+
+.optionsContainer {
+    -fx-background-color: transparent;
+}
+
+#optionsPane>#modlist {
+    -fx-background-color: transparent;
+}
+
+#optionsPane>#modlist>.viewport {
+    -fx-background-color: transparent;
+}
+
+.optionsDescription {
+    -fx-fill: #fff;
+    -fx-text-fill: #fff;
+    -fx-font-size: 12px;
+    -fx-padding : 0 0 0 10px;
+}
+
+.optionsCheckbox {
+    -fx-label-padding: 0 0 0 5px;
+    -fx-padding : 3 0 0 0px;
+}
+
+#headingOptional {
+    -fx-fill: #fff;
+    -fx-text-fill: #fff;
+    -fx-font-weight: bold;
+    -fx-font-size: 14pt;
+}
+/*-- DrLeonardo Design for GravitLauncher --*/

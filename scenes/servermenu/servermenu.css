@@ -1,0 +1,101 @@
+/*-- DrLeonardo Design for GravitLauncher --*/
+
+#layout {
+    -fx-background-color: transparent;
+    -fx-background-size: cover;
+    -fx-background-image: url('../../images/servermenu.png');
+    -fx-text-fill: #fff;
+}
+
+#serverlist {
+    -fx-background-color: transparent;
+}
+
+#serverlist>.viewport {
+    -fx-background-color: transparent;
+}
+
+#serverdesc {
+    -fx-background-color: transparent;
+}
+
+#serverdesc>.viewport {
+    -fx-background-color: transparent;
+}
+
+#serverinfo {
+    -fx-text-fill: #fff;
+    -fx-background-color: transparent;
+}
+
+#serverinfo>.viewport {
+    -fx-background-color: transparent;
+}
+
+#servercontainer {
+    -fx-background-color: transparent;
+}
+
+.serverentrance {
+    -fx-background-color: transparent;
+}
+
+#serverMenu {
+    -fx-background-color: transparent;
+}
+
+#nickname {
+    -fx-font-size: 13pt;
+    -fx-text-fill: #fff;
+}
+
+#icons {
+    -fx-fill: #fff;
+}
+
+#heading {
+    -fx-font-size: 16pt;
+    -fx-fill: #fff;
+}
+#headingOnline {
+    -fx-font-size: 16pt;
+    -fx-fill: #fff;
+}
+
+
+#servertext {
+    -fx-font-size: 10pt;
+    -fx-text-fill: #fff;
+}
+
+#avatar {
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+    -fx-font-smoothing-type: lcd;
+    -fx-background-image: url('../../images/icons/default.png');
+}
+
+#clientLaunch {
+    -fx-background-radius: 0;
+    -fx-background-color: #6495ed;
+    -fx-background-size: cover;
+    -fx-text-fill: #fff;
+    -fx-background-insets: 0;
+}
+
+#clientSettings {
+    -fx-background-radius: 0;
+    -fx-background-color: #6495ed;
+    -fx-background-size: cover;
+    -fx-font-size: 13pt;
+    -fx-background-insets: 0;
+}
+
+#clientLaunch:pressed,
+#clientLaunch:hover,
+#clientSettings:hover,
+#clientSettings:pressed {
+    -fx-background-color: #6495ed;
+}
+
+/*-- DrLeonardo Design for GravitLauncher --*/
